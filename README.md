@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi there, I'm Drissnafii! 👋
 
-<!--
-**Drissnafii/drissnafii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about software development and always eager to learn new technologies. Here's a bit about me:
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on various web development projects.
+- 🌱 I’m currently learning advanced JavaScript frameworks and cloud computing.
+- 👯 I’m looking to collaborate on open source projects.
+- 🤔 I’m looking for help with developing scalable backend systems.
+- 💬 Ask me about anything related to web development, Python, and machine learning.
+- 📫 How to reach me: [drissnafii@example.com](mailto:drissnafii@example.com)
+- ⚡ Fun fact: I love hiking and exploring new places.
+
+## 🛠️ Languages and Tools
+
+- **Languages:** 
+  - JavaScript
+  - sql
+  - HTML/CSS
+  - SQL
+
+- **Frameworks and Libraries:** 
+  - tailwind
+
+- **Tools and Platforms:** 
+  - Git & GitHub
+  - Laragon
+    
+## 📈 GitHub Stats
+
+![Drissnafii's GitHub stats](https://github-readme-stats.vercel.app/api?username=Drissnafii&show_icons=true&theme=radical)
+
+## 🌐 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/drissnafii/)
+- [Twitter](https://twitter.com/drissnafii)
+- [Personal Blog](https://drissnafii.dev)
+
+## 📂 Projects
+
+- **[Project Name](https://github.com/Drissnafii/project-name)**: ....
+- **[Another Project](https://github.com/Drissnafii/another-project)**: ....
+
+Thank you for visiting my profile! Feel free to reach out if you have any questions or if you'd like to collaborate on a project.
