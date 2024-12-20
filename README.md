@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm passionate about software development and alwa
 - 👯 I’m looking to collaborate on open source projects.
 - 🤔 I’m looking for help with developing scalable backend systems.
 - 💬 Ask me about anything related to web development, Python, and machine learning.
-- 📫 How to reach me: [drissnafii@example.com](mailto:drissnafii@example.com)
+- 📫 How to reach me: [drissnafii@example.com](mailto:drissnafi3@gmail.com)
 - ⚡ Fun fact: I love hiking and exploring new places.
 
 ## 🛠️ Languages and Tools
