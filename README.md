@@ -26,10 +26,6 @@ Welcome to my GitHub profile! I'm passionate about software development and alwa
 - **Tools and Platforms:** 
   - Git & GitHub
   - Laragon
-    
-## 📈 GitHub Stats
-
-![Drissnafii's GitHub stats](https://github-readme-stats.vercel.app/api?username=Drissnafii&show_icons=true&theme=radical)
 
 ## 🌐 Connect with Me
 
