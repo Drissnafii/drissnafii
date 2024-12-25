@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35¢er=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Driss+Nafii!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Driss+Nafii!;" />
 </h1>
 
 <h3 align="center">A passionate software developer from Morocco</h3>
@@ -20,7 +20,7 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/driss-nafii-333379248/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>  
+  </a> &nbsp
   <a href="" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
@@ -50,8 +50,9 @@
 
 <div align="center">
     <br/>
-    *Exploring the space of possibilities where `Code = f(Math)` & `Problem = Answer != null`.*
-    <br/><br/>
+  Exploring the space of possibilities where `Code = f(Math)` & `Problem = Answer != null`
+    
+  <br/><br/>
 </div>
 
 <br/>
