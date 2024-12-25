@@ -17,7 +17,7 @@
 ⚡ Fun fact **Brawlhalla**
 
  </div>
-
+<div align="center">
   <a href="https://www.linkedin.com/in/driss-nafii-333379248/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
