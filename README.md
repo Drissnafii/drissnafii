@@ -49,7 +49,7 @@
 
 <div align="center">
     <br/>
-  _*Exploring the space of possibilities where `Code = f(Math)` & `Problem = Answer != null`._
+  <p>_*Exploring the space of possibilities where `Code = f(Math)` & `Problem = Answer != null`._</p>
     
   <br/><br/>
 </div>
