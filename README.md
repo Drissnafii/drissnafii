@@ -12,7 +12,7 @@
  
  🔭 I’m currently studying at **YouCode**
  
- 🌱 Learning... **php, mysql, laravel**
+ 🌱 **Learning...php, mysql, laravel**
 
 ⚡ Fun fact **Brawlhalla**
 
