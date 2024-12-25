@@ -35,7 +35,7 @@
 </div>
 
 <br/>
-<hr/>
+
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <div align="center">
@@ -50,7 +50,7 @@
 
 <div align="center">
     <br/>
-  _*Exploring the space of possibilities where `Code = f(Math)` & `Problem = Answer != null`._
+  *Exploring the space of possibilities where `Code = f(Math)` & `Problem = Answer != null`.*
   <br/><br/>
 </div>
 
