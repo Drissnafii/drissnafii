@@ -5,28 +5,8 @@
 </h1>
 
 <h3 align="center">A passionate software developer from Morocco</h3>
-
-<br/>
-
-<div align="center">
- 
- 🔭 I’m currently studying at **YouCode**
- 
- 🌱 **Learning...php, mysql, laravel**
-
-⚡ Fun fact **Brawlhalla**
-
- </div>
-<div align="center">
-  <a href="https://www.linkedin.com/in/driss-nafii-333379248/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a> &nbsp
-  <a href="" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br>
+<h2 align="center">⚒️ ___________ ⚒️</h2>
 <br>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,tailwind,git" />
