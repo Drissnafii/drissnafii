@@ -39,7 +39,7 @@
 <hr/>
 
 <div align="center">
-  *Exploring the space of possibilities where `Code = f(Math)` & `Problem = Answer != null`.*
+  _*Exploring the space of possibilities where `Code = f(Math)` & `Problem = Answer != null`._
   <br/><br/><br/>
 </div>
 
