@@ -44,13 +44,12 @@
 
 <br/><br/>
 
-<hr/>
 
 <br/>
 
 <div align="center">
     <br/>
-  Exploring the space of possibilities where `Code = f(Math)` & `Problem = Answer != null`
+  _*Exploring the space of possibilities where `Code = f(Math)` & `Problem = Answer != null`._
     
   <br/><br/>
 </div>
