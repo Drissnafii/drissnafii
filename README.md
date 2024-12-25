@@ -23,12 +23,4 @@
 
 
 <br/>
-
-<div align="center">
-    <br/>
-  Exploring the space of possibilities where Code = f(Math) & Problem = Answer != null
-    
-  <br/><br/>
-</div>
-
 <br/>
