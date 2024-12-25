@@ -50,8 +50,8 @@
 
 <div align="center">
     <br/>
-  _Exploring the space of possibilities where `Code = f(Math)` & `Problem = Answer != null`_
-    _dima widad_
+  Exploring the space of possibilities where `Code = f(Math)` & `Problem = Answer != null`
+    
   <br/><br/>
 </div>
 
