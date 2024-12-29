@@ -24,7 +24,7 @@
 <br/>
 
 <div align="center">
-    <h2>🚀 Full Stack Developer | PHP Specialist | Clean Code Enthusiast</h2>
+    <h2>🚀 Full Stack Developer | Clean Code Enthusiast</h2>
 </div>
 
 ## 🛠️ Technology Stack
@@ -72,28 +72,6 @@ class Developer:
         }
 
 ```
-
-```
-┌──────────────────────────┐
-│     SYSTEM METRICS       │
-└──────────────────────────┘
-```
-
-<div align="center">
-
-![](https://github-readme-streak-stats.herokuapp.com?user=yourusername&hide_border=true&background=0D1117&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=00FF00&sideNums=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&dates=FFFFFF50)
-
-```
-╔═══════════════════════════════════════════════════╗
-║  CURRENT PROCESSES                                ║
-╠═══════════════════════════════════════════════════╣
-║ ⚡ Building clean, efficient web solutions         ║
-║ ⚡ Optimizing database performance                 ║
-║ ⚡ Learning advanced architectural patterns        ║
-╚═══════════════════════════════════════════════════╝
-```
-
-</div>
 
 ```
 ┌──────────────────────────┐
