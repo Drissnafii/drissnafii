@@ -74,30 +74,6 @@ class Developer:
 ```
 
 ```
-┌──────────────────────────┐
-│    NETWORK PROTOCOLS     │
-└──────────────────────────┘
-```
-
-<div align="center">
-
-[![](https://img.shields.io/badge/LinkedIn-%E2%94%82%20Connect%20%E2%94%82-000?style=for-the-badge&logo=linkedin&logoColor=00FF00)](https://linkedin.com/in/yourusername)
-[![](https://img.shields.io/badge/Email-%E2%94%82%20Message%20%E2%94%82-000?style=for-the-badge&logo=gmail&logoColor=00FF00)](mailto:your.email@example.com)
-
-</div>
-
-```
-┌──────────────────────────────────────────────────────────┐
-│  ROOT ACCESS GRANTED                                      │
-│  TERMINAL: Visitor Count                                 │
-└──────────────────────────────────────────────────────────┘
-```
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=yourusername&color=00FF00&style=for-the-badge&label=PROFILE+VIEWS)
-
-```
 [END OF LINE]
 ```
 
