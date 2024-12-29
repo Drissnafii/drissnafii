@@ -1,67 +1,93 @@
 ```
-░█▀▄░█▀▄░▀█▀░█▀▀░█▀▀░░░█▀█░█▀█░█▀▀░▀█▀░▀█▀
-░█▀▄░█▀▄░░█░░▀▀█░▀▀█░░░█░█░█▀█░█▀▀░░█░░░█░
-░▀░▀░▀░▀░▀▀▀░▀▀▀░▀▀▀░░░▀░▀░▀░▀░▀░░░▀▀▀░░▀░
+╔═══════════════════════════════════════════════════════════╗
+║ ▓▓▒▒░░| D R I S S   N A F I I |░░▒▒▓▓ ║
+╚═══════════════════════════════════════════════════════════╝
 ```
 
 <div align="center">
 
-`> Crafting digital solutions with clean code and creative thinking`
-
-</div>
+![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Initializing+Developer+Profile...;System+Status%3A+Online;Loading+Digital+Craftsman+Interface...)
 
 ```
-──────────────────────  SYSTEM INFO  ──────────────────────
-
-OS: Full Stack Development
-KERNEL: PHP + MySQL
-SHELL: HTML/CSS/TailwindCSS
-TERMINAL: VSCode
-PACKAGES: Docker, Git
-STATUS: Online & Coding
-```
-
-<div align="center">
-
-## `< METRICS />`
-
-![Stats](https://github-readme-streak-stats.herokuapp.com?user=yourusername&hide_border=true&background=00000000&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=00FF00&sideNums=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&dates=FFFFFF50)
-
-</div>
-
-```
-──────────────────────  CONTACT_OS  ──────────────────────
-```
-
-<div align="center">
-
-[![](https://img.shields.io/badge/LinkedIn-/in/yourname-000?style=for-the-badge&logo=linkedin&logoColor=00FF00)](https://linkedin.com/in/yourusername)
-[![](https://img.shields.io/badge/Email-your@email.com-000?style=for-the-badge&logo=gmail&logoColor=00FF00)](mailto:your.email@example.com)
-
-</div>
-
-```
-──────────────────  CURRENT_PROCESS  ──────────────────────
-```
-
-<div align="center">
-
-```css
-.status {
-    current_task: "Building something awesome";
-    focus: "Clean code & Performance";
-    mode: "Always learning";
-}
+█▀▀ █░█ █░░ █░░ ▄▄ █▀ ▀█▀ ▄▀█ █▀▀ █▄▀  █▀▄ █▀▀ █░█
+█▀░ █▄█ █▄▄ █▄▄ ░░ ▄█ ░█░ █▀█ █▄▄ █░█  █▄▀ ██▄ ▀▄▀
 ```
 
 </div>
 
 ```
-──────────────────────  EOF  ──────────────────────────────
+┌──────────────────────────┐
+│     SYSTEM OVERVIEW      │
+└──────────────────────────┘
+```
 
-[Press Enter to continue...]
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Driss Nafii"
+        self.role = "Full Stack Developer"
+        self.language_spoken = ["ar_MA", "en_US", "fr_FR"]
+        self.architecture = ["clean code", "SOLID principles"]
+        
+    def current_stack(self):
+        return {
+            "frontend": ["HTML5", "CSS3", "TailwindCSS"],
+            "backend": ["PHP"],
+            "database": ["MySQL"],
+            "devops": ["Docker", "Git"],
+            "editor": "VSCode"
+        }
+
+```
+
+```
+┌──────────────────────────┐
+│     SYSTEM METRICS       │
+└──────────────────────────┘
 ```
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=yourusername&color=00FF00&style=flat-square&label=Profile+Visits" />
+
+![](https://github-readme-streak-stats.herokuapp.com?user=yourusername&hide_border=true&background=0D1117&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=00FF00&sideNums=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&dates=FFFFFF50)
+
+```
+╔═══════════════════════════════════════════════════╗
+║  CURRENT PROCESSES                                ║
+╠═══════════════════════════════════════════════════╣
+║ ⚡ Building clean, efficient web solutions         ║
+║ ⚡ Optimizing database performance                 ║
+║ ⚡ Learning advanced architectural patterns        ║
+╚═══════════════════════════════════════════════════╝
+```
+
+</div>
+
+```
+┌──────────────────────────┐
+│    NETWORK PROTOCOLS     │
+└──────────────────────────┘
+```
+
+<div align="center">
+
+[![](https://img.shields.io/badge/LinkedIn-%E2%94%82%20Connect%20%E2%94%82-000?style=for-the-badge&logo=linkedin&logoColor=00FF00)](https://linkedin.com/in/yourusername)
+[![](https://img.shields.io/badge/Email-%E2%94%82%20Message%20%E2%94%82-000?style=for-the-badge&logo=gmail&logoColor=00FF00)](mailto:your.email@example.com)
+
+</div>
+
+```
+┌──────────────────────────────────────────────────────────┐
+│  ROOT ACCESS GRANTED                                      │
+│  TERMINAL: Visitor Count                                 │
+└──────────────────────────────────────────────────────────┘
+```
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=yourusername&color=00FF00&style=for-the-badge&label=PROFILE+VIEWS)
+
+```
+[END OF LINE]
+```
+
 </div>
