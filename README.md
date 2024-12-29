@@ -10,21 +10,20 @@ Software developer with a strong drive for problem-solving and continuous learni
 ### 🛠️ Tech Stack
 | Category    | Technologies |
 |------------|--------------|
-| Languages  | Python, JavaScript, Java, C++ |
-| Frontend   | React, HTML5, CSS3, TailwindCSS |
-| Backend    | Node.js, Django, Flask, Express |
-| Databases  | MySQL, MongoDB, PostgreSQL |
-| DevOps     | Docker, Kubernetes, GitHub Actions |
-| Tools      | Git, VS Code, Postman |
+| Frontend   | HTML5, CSS3, TailwindCSS |
+| Backend    | php |
+| Databases  | MySQLi |
+| DevOps     | Docker |
+| Tools      | Git, VS Code |
 
 ### 🚀 Featured Projects
 **Project Name 1**
-- Built a [brief description] using Python, Flask, and React
+- Built a [brief description] using X, Y, and Z
 - [Key achievement or feature]
 - [Link to project]
 
 **Project Name 2**
-- Developed a [brief description] using Node.js and MongoDB
+- Developed a [brief description] using X and Y
 - [Key achievement or feature]
 - [Link to project]
 
