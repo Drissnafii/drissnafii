@@ -1,85 +1,75 @@
-<div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+my+Profile!+👋;I'm+Driss+Nafii!;Full+Stack+Developer" />
-</div>
-
-<div align="center">
-    <a href="https://twitter.com/yourusername">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-    </a>
-    <a href="https://linkedin.com/in/yourusername">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-    <a href="mailto:your.email@example.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-    </a>
-</div>
-
-<br/>
-
-<div align="center">
-    <h2>🚀 Full Stack Developer | PHP Specialist | Clean Code Enthusiast</h2>
-</div>
-
-## 💫 About Me
-
-```javascript
-const drissNafii = {
-    location: "Your Location",
-    role: "Full Stack Developer",
-    codesWith: ["PHP", "HTML", "CSS", "MySQL"],
-    specializes: ["Web Development", "Database Design", "API Integration"],
-    currentlyLearning: ["Docker", "Advanced PHP Patterns"],
-    passionateAbout: "Building efficient, scalable web applications"
-};
+```txt
+                     ╔══════════════════════════════════╗
+                           D R I S S  N A F I I
+                     ╚══════════════════════════════════╝
 ```
 
-## 🛠️ Technology Stack
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Developer+%7C+Creator+%7C+Builder;Turning+ideas+into+reality" />
+</div>
+
+```txt
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+```
 
 <div align="center">
 
-| Category  | Technologies & Tools |
-|-----------|---------------------|
-| 💻 Frontend | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) |
-| ⚙️ Backend | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) |
-| 🛢️ Database | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white) |
-| 🔧 DevOps | ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white) |
-| ⚡ Tools | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white) |
+**`Digital Craftsman (Developer/Creator)`**
 
 </div>
 
-## 📊 GitHub Statistics
+<br>
+
+```txt
+                            WHO AM I
+```
+
+I craft web solutions with a focus on clean, efficient code. Every project is an opportunity to create something exceptional.
+
+```txt
+                          TECH ARSENAL
+```
 
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-    <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=tokyonight&hide_border=true&layout=compact" alt="Most Used Languages" />
+    
+|   **Language**   |   **Territory**  |
+|:---------------:|:----------------:|
+| ⚡ PHP          | 🎨 Frontend      |
+| 🌐 HTML5        | ⚙️ Backend       |
+| 🎭 CSS3         | 🛢️ Database      |
+| 🌊 TailwindCSS  | 🔧 DevOps        |
+
 </div>
 
-## 🌟 Featured Projects
+```txt
+                         CURRENT STATS
+```
 
 <div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=github-dark-blue&hide_border=true&background=00000000&ring=4B8EB8&fire=4B8EB8&currStreakLabel=FFFFFF&sideLabels=FFFFFF" />
+</div>
 
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=your-repo-name&theme=tokyonight&hide_border=true)](https://github.com/yourusername/your-repo-name)
+```txt
+                         GET IN TOUCH
+```
+
+<div align="center">
+    
+[![LinkedIn](https://img.shields.io/badge/-%E2%86%92%20linkedin-black?style=for-the-badge)](https://linkedin.com/in/yourusername)
+[![Email](https://img.shields.io/badge/-%E2%86%92%20email-black?style=for-the-badge)](mailto:your.email@example.com)
 
 </div>
 
-## 📈 Contribution Graph
+```txt
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+```
 
 <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourusername&theme=tokyonight" alt="Contribution Graph" />
-</div>
+    
+```txt
+Currently working on something cool 😉
+```
 
-## 🤝 Let's Connect and Build Something Amazing!
+[![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat-square&label=Profile+Views)](https://github.com/yourusername)
 
-<div align="center">
-    <p>💼 Open for collaboration and interesting projects</p>
-    <p>📧 Reach me at: your.email@example.com</p>
-</div>
-
-<div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✨;Let's+build+something+amazing+together!;" />
-</div>
-
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views Counter" />
 </div>
