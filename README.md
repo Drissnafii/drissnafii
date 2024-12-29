@@ -27,8 +27,6 @@
     <h2>🚀 Full Stack Developer | Clean Code Enthusiast</h2>
 </div>
 
-## 🛠️ Technology Stack
-
 <div align="center">
 
 | Category  | Technologies & Tools |
