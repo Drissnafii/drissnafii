@@ -1,72 +1,67 @@
-```txt
-╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱
-              Welcome to my digital garden
-╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱
+```
+░█▀▄░█▀▄░▀█▀░█▀▀░█▀▀░░░█▀█░█▀█░█▀▀░▀█▀░▀█▀
+░█▀▄░█▀▄░░█░░▀▀█░▀▀█░░░█░█░█▀█░█▀▀░░█░░░█░
+░▀░▀░▀░▀░▀▀▀░▀▀▀░▀▀▀░░░▀░▀░▀░▀░▀░░░▀▀▀░░▀░
 ```
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=30&center=true&vCenter=true&width=500&height=70&duration=4000&lines=DRISS+NAFII;Full+Stack+Developer" />
-</div>
 
-<br>
-
-<div align="center">
-
-**「 Building digital experiences with code 」**
+`> Crafting digital solutions with clean code and creative thinking`
 
 </div>
 
-<br>
+```
+──────────────────────  SYSTEM INFO  ──────────────────────
 
-```txt
-                         ARSENAL
+OS: Full Stack Development
+KERNEL: PHP + MySQL
+SHELL: HTML/CSS/TailwindCSS
+TERMINAL: VSCode
+PACKAGES: Docker, Git
+STATUS: Online & Coding
 ```
 
 <div align="center">
-    
-|   **Craft**   |   **Tools**    |
-|:-------------:|:--------------:|
-| ◈ Frontend    | HTML5 · CSS3   |
-| ◈ Styling     | TailwindCSS    |
-| ◈ Backend     | PHP            |
-| ◈ Database    | MySQL          |
-| ◈ DevOps      | Docker · Git   |
+
+## `< METRICS />`
+
+![Stats](https://github-readme-streak-stats.herokuapp.com?user=yourusername&hide_border=true&background=00000000&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=00FF00&sideNums=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&dates=FFFFFF50)
 
 </div>
 
-<br>
-
-```txt
-                        METRICS
+```
+──────────────────────  CONTACT_OS  ──────────────────────
 ```
 
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&hide_border=true&background=00000000&stroke=FFFFFF50&ring=4B8EB8&fire=4B8EB8&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF50" />
+
+[![](https://img.shields.io/badge/LinkedIn-/in/yourname-000?style=for-the-badge&logo=linkedin&logoColor=00FF00)](https://linkedin.com/in/yourusername)
+[![](https://img.shields.io/badge/Email-your@email.com-000?style=for-the-badge&logo=gmail&logoColor=00FF00)](mailto:your.email@example.com)
+
 </div>
 
-<br>
-
-```txt
-                       CONNECT
+```
+──────────────────  CURRENT_PROCESS  ──────────────────────
 ```
 
 <div align="center">
-    
-[![LinkedIn](https://img.shields.io/badge/linkedin-%E2%86%92-black?style=for-the-badge&logo=linkedin&color=000000)](https://linkedin.com/in/yourusername)
-[![Email](https://img.shields.io/badge/email-%E2%86%92-black?style=for-the-badge&logo=gmail&color=000000)](mailto:your.email@example.com)
 
-</div>
-
-<br>
-
-<div align="center">
-
-```txt
-Currently crafting something interesting...
+```css
+.status {
+    current_task: "Building something awesome";
+    focus: "Clean code & Performance";
+    mode: "Always learning";
+}
 ```
 
 </div>
 
+```
+──────────────────────  EOF  ──────────────────────────────
+
+[Press Enter to continue...]
+```
+
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=12&center=true&vCenter=true&width=500&height=30&duration=4000&lines=MADE+WITH+%E2%99%A5+BY+DRISS+NAFII" />
+    <img src="https://komarev.com/ghpvc/?username=yourusername&color=00FF00&style=flat-square&label=Profile+Visits" />
 </div>
