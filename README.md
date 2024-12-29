@@ -27,19 +27,6 @@
     <h2>🚀 Full Stack Developer | PHP Specialist | Clean Code Enthusiast</h2>
 </div>
 
-## 💫 About Me
-
-```javascript
-const drissNafii = {
-    location: "Your Location",
-    role: "Full Stack Developer",
-    codesWith: ["PHP", "HTML", "CSS", "MySQL"],
-    specializes: ["Web Development", "Database Design", "API Integration"],
-    currentlyLearning: ["Docker", "Advanced PHP Patterns"],
-    passionateAbout: "Building efficient, scalable web applications"
-};
-```
-
 ## 🛠️ Technology Stack
 
 <div align="center">
@@ -53,6 +40,19 @@ const drissNafii = {
 | ⚡ Tools | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white) |
 
 </div>
+
+## 💫 About Me
+
+```javascript
+const drissNafii = {
+    location: "Your Location",
+    role: "Full Stack Developer",
+    codesWith: ["PHP", "HTML", "CSS", "MySQL"],
+    specializes: ["Web Development", "Database Design", "API Integration"],
+    currentlyLearning: ["Docker", "Advanced PHP Patterns"],
+    passionateAbout: "Building efficient, scalable web applications"
+};
+```
 
 ```python
 class Developer:
