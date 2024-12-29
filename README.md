@@ -39,7 +39,7 @@
 
 </div>
 
-## 💫 About Me
+![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=This+is+Craftman...;Think+Imagine%3A+Apply...)
 
 ```javascript
 const drissNafii = {
