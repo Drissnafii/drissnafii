@@ -16,21 +16,6 @@ Software developer with a strong drive for problem-solving and continuous learni
 | DevOps     | Docker |
 | Tools      | Git, VS Code |
 
-### 🚀 Featured Projects
-**Project Name 1**
-- Built a [brief description] using X, Y, and Z
-- [Key achievement or feature]
-- [Link to project]
-
-**Project Name 2**
-- Developed a [brief description] using X and Y
-- [Key achievement or feature]
-- [Link to project]
-
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
-
 ### 📫 Connect With Me
 - Email: your.email@example.com
 - LinkedIn: [Driss Nafii](https://www.linkedin.com/in/yourusername)
