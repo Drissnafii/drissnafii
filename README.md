@@ -2,18 +2,6 @@
 
 ![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Initializing+Developer+Profile...;System+Status%3A+Online;Loading+Digital+Craftsman+Interface...)
  </div>
-
-```javascript
-const drissNafii = {
-    location: "Your Location",
-    role: "Full Stack Developer",
-    codesWith: ["PHP", "HTML", "CSS", "MySQL"],
-    specializes: ["Web Development", "Database Design", "API Integration"],
-    currentlyLearning: ["Docker", "Advanced PHP Patterns"],
-    passionateAbout: "Building efficient, scalable web applications"
-};
-```
-
 <div align="center">
     
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:drissnafi3@gmail.com)
