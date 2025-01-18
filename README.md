@@ -14,25 +14,6 @@ const drissNafii = {
 };
 ```
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Driss Nafii"
-        self.role = "Full Stack Developer"
-        self.language_spoken = ["ar_MA", "en_US", "fr_FR"]
-        self.architecture = ["clean code", "SOLID principles"]
-        
-    def current_stack(self):
-        return {
-            "frontend": ["HTML5", "CSS3", "TailwindCSS"],
-            "backend": ["PHP"],
-            "database": ["MySQL"],
-            "devops": ["Docker", "Git"],
-            "editor": "VSCode"
-        }
-
-```
-
 <div align="center">
     
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:drissnafi3@gmail.com)
