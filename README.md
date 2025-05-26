@@ -24,8 +24,8 @@
 <tr>
 <td width="50%">
 
-### YouLearn
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/react.svg" width="60" height="60" alt="React"/>
+### YallaVamos-Artisana
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/laravel.svg" width="60" height="60" alt="React"/>
 
 A comprehensive learning platform built with React.js frontend and PHP backend, offering high-quality courses across multiple categories.
 
