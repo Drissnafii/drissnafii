@@ -105,21 +105,6 @@
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=DrissNafii&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
   
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrissNafii&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-  
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DrissNafii&theme=tokyo-night&hide_border=true&area=true" width="98%"/>
-
-</div>
-
----
-
-<div align="center">
-  
-  ## 🏆 GitHub Trophies
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=DrissNafii&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-
-</div>
 
 ---
 
