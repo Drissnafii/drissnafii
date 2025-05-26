@@ -5,8 +5,19 @@
 </div>
 
 <div align="center">
-    
+  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:drissnafi3@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/driss-nafii-333379248/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/drissnafii)
+</div>
+
+<div align="center">
+  
+![Driss's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrissNafii&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrissNafii&layout=compact&theme=radical)](https://github.com/DrissNafii)
+</div>
+
+<div align="center">
+  
+![Snake animation](https://github.com/DrissNafii/DrissNafii/blob/output/github-contribution-grid-snake.svg)
 </div>
