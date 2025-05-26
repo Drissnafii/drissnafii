@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- Header Animation -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Driss%20Nafii&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descSize=16&descAlignY=51" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26,27,28,29&height=180&section=header&text=Driss%20Nafii&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descSize=16&descAlignY=51" width="100%"/>
 
 </div>
 
@@ -24,33 +24,33 @@
 <tr>
 <td width="50%">
 
-### YallaVamos-Artisana
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/laravel.svg" width="60" height="60" alt="React"/>
+### Eventler
+<img src="https://skillicons.dev/icons?i=php" width="60" height="60" alt="PHP"/>
 
-A comprehensive learning platform built with React.js frontend and PHP backend, offering high-quality courses across multiple categories.
+An Eventbrite-inspired event management platform built with PHP MVC, PostgreSQL, and AJAX. Features include secure user authentication, dynamic event filtering, ticketing system, and admin panel.
 
-**Tech Stack:** React.js, PHP, MySQL  
-**Features:** Course Management, User Authentication, Progress Tracking
+**Tech Stack:** PHP, PostgreSQL, AJAX, Twig  
+**Features:** Event Management, Ticketing System, User Authentication
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/CODE-gray?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-blue?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/DrissNafii/Eventler"><img src="https://img.shields.io/badge/CODE-gray?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/DrissNafii/Eventler"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-blue?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 </td>
 <td width="50%">
 
-### SnackApp
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/csharp.svg" width="60" height="60" alt="C#"/>
+### YallaVamos-Artisana
+<img src="https://skillicons.dev/icons?i=html" width="60" height="60" alt="HTML"/>
 
-A robust desktop point-of-sale solution built with WPF/.NET Framework and C# for food service businesses.
+A web guide for the FIFA World Cup 2030 in Morocco. A comprehensive platform showcasing Morocco's culture, venues, and tournament information.
 
-**Tech Stack:** C#, WPF, .NET Framework, SQL Server  
-**Features:** POS System, Inventory Management, Sales Reports
+**Tech Stack:** HTML5, CSS3, JavaScript, Blade Templates  
+**Features:** Interactive Guide, Cultural Showcase, Tournament Info
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/CODE-gray?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-blue?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/DrissNafii/YallaVamos-Artisana"><img src="https://img.shields.io/badge/CODE-gray?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/DrissNafii/YallaVamos-Artisana"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-blue?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 </td>
@@ -58,33 +58,33 @@ A robust desktop point-of-sale solution built with WPF/.NET Framework and C# for
 <tr>
 <td width="50%">
 
-### ScratchV2
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/java.svg" width="60" height="60" alt="Java"/>
+### Youdemy-learning
+<img src="https://skillicons.dev/icons?i=php" width="60" height="60" alt="PHP"/>
 
-An engaging Android loyalty app where users collect coins through scratch-card mechanics to redeem for real gifts.
+A platform to connect students and teachers through online courses. Features comprehensive course management, student enrollment, and interactive learning tools.
 
-**Tech Stack:** Java, Android SDK, Firebase  
-**Features:** Gamification, Reward System, User Engagement
+**Tech Stack:** PHP, MySQL, JavaScript, Bootstrap  
+**Features:** Course Management, Student Portal, Teacher Dashboard
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/CODE-gray?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-blue?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/DrissNafii/Youdemy-learning"><img src="https://img.shields.io/badge/CODE-gray?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/DrissNafii/Youdemy-learning"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-blue?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 </td>
 <td width="50%">
 
-### FC Team Builder
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/javascript.svg" width="60" height="60" alt="JavaScript"/>
+### Chofoni-CLI
+<img src="https://skillicons.dev/icons?i=powershell" width="60" height="60" alt="PowerShell"/>
 
-A dynamic platform for creating and managing custom football teams with formation selection and player assignment.
+A lightning-fast PowerShell tool to explore, autocomplete, and pretty-print API endpoints—with zero config. Perfect for developers who hate typing full URLs or manually checking API structures.
 
-**Tech Stack:** JavaScript, HTML5, CSS3, Local Storage  
-**Features:** Team Formation, Player Management, Statistics
+**Tech Stack:** PowerShell, REST APIs, JSON  
+**Features:** API Exploration, Auto-completion, Zero Configuration
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/CODE-gray?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-blue?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/DrissNafii/Chofoni-CLI"><img src="https://img.shields.io/badge/CODE-gray?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/DrissNafii/Chofoni-CLI"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-blue?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 </td>
@@ -288,10 +288,21 @@ A dynamic platform for creating and managing custom football teams with formatio
   
   ## 📊 GitHub Analytics
   
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=DrissNafii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=DrissNafii&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=DrissNafii&show_icons=true&theme=dracula&hide_border=true&count_private=true&custom_title=GitHub%20Stats&ring_color=FF69B4&text_color=FF69B4&icon_color=FF1493&title_color=FF69B4" alt="GitHub Stats" style="border-radius: 50%; width: 400px; height: 200px;"/>
+  </div>
   
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrissNafii&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <br/>
+  
+  <div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DrissNafii&theme=dracula&hide_border=true&stroke=FF69B4&ring=FF1493&fire=FF69B4&currStreakLabel=FF69B4" alt="GitHub Streak" style="border-radius: 50%; width: 400px; height: 200px;"/>
+  </div>
+  
+  <br/>
+  
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrissNafii&layout=donut&theme=dracula&hide_border=true&langs_count=8&title_color=FF69B4&text_color=FF69B4" alt="Top Languages" style="width: 350px; height: 350px;"/>
+  </div>
 
 </div>
 
@@ -328,7 +339,7 @@ A dynamic platform for creating and managing custom football teams with formatio
 <div align="center">
   
   <!-- Footer -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26,27,28,29&height=100&section=footer" width="100%"/>
   
   <h3>💖 Thanks for visiting my profile!</h3>
   <p><em>Happy Coding! 🚀</em></p>
