@@ -25,7 +25,7 @@
 <td width="50%">
 
 ### Eventler
-<img src="https://skillicons.dev/icons?i=php" width="60" height="60" alt="PHP"/>
+<img src="https://skillicons.dev/icons?i=twig" width="60" height="60" alt="PHP"/>
 
 An Eventbrite-inspired event management platform built with PHP MVC, PostgreSQL, and AJAX. Features include secure user authentication, dynamic event filtering, ticketing system, and admin panel.
 
