@@ -18,52 +18,267 @@
 
 <div align="center">
   
-  ## 🛠️ Tech Stack & Tools
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### YouLearn
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/react.svg" width="60" height="60" alt="React"/>
+
+A comprehensive learning platform built with React.js frontend and PHP backend, offering high-quality courses across multiple categories.
+
+**Tech Stack:** React.js, PHP, MySQL  
+**Features:** Course Management, User Authentication, Progress Tracking
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/CODE-gray?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-blue?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+</td>
+<td width="50%">
+
+### SnackApp
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/csharp.svg" width="60" height="60" alt="C#"/>
+
+A robust desktop point-of-sale solution built with WPF/.NET Framework and C# for food service businesses.
+
+**Tech Stack:** C#, WPF, .NET Framework, SQL Server  
+**Features:** POS System, Inventory Management, Sales Reports
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/CODE-gray?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-blue?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ScratchV2
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/java.svg" width="60" height="60" alt="Java"/>
+
+An engaging Android loyalty app where users collect coins through scratch-card mechanics to redeem for real gifts.
+
+**Tech Stack:** Java, Android SDK, Firebase  
+**Features:** Gamification, Reward System, User Engagement
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/CODE-gray?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-blue?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+</td>
+<td width="50%">
+
+### FC Team Builder
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/javascript.svg" width="60" height="60" alt="JavaScript"/>
+
+A dynamic platform for creating and managing custom football teams with formation selection and player assignment.
+
+**Tech Stack:** JavaScript, HTML5, CSS3, Local Storage  
+**Features:** Team Formation, Player Management, Statistics
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/CODE-gray?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-blue?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
   
-  <!-- Programming Languages -->
-  <h3>💻 Languages</h3>
-  <p>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  </p>
+## 🛠️ Tech Stack & Tools
 
-  <!-- Frontend -->
-  <h3>🎨 Frontend</h3>
-  <p>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js"/>
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  </p>
+### 💻 Programming Languages
 
-  <!-- Backend -->
-  <h3>⚙️ Backend</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
-  </p>
+<table align="center">
+<tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+        <br>JavaScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+        <br>TypeScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+        <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
+        <br>PHP
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+        <br>Java
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
+        <br>C#
+    </td>
+</tr>
+<tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+        <br>HTML5
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+        <br>CSS3
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
+        <br>C
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+        <br>C++
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart" />
+        <br>Dart
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
+        <br>Bash
+    </td>
+</tr>
+</table>
 
-  <!-- Databases -->
-  <h3>🗄️ Databases</h3>
-  <p>
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  </p>
+### 🎨 Frontend Technologies
 
-  <!-- Tools -->
-  <h3>🔧 Tools & Platforms</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  </p>
+<table align="center">
+<tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+        <br>React
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue.js" />
+        <br>Vue.js
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="Angular" />
+        <br>Angular
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+        <br>Next.js
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+        <br>Tailwind
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
+        <br>Bootstrap
+    </td>
+</tr>
+</table>
+
+### ⚙️ Backend Technologies
+
+<table align="center">
+<tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+        <br>Node.js
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+        <br>Express
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
+        <br>Laravel
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
+        <br>Spring
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" />
+        <br>.NET
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
+        <br>Flask
+    </td>
+</tr>
+</table>
+
+### 🗄️ Databases
+
+<table align="center">
+<tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+        <br>MongoDB
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+        <br>MySQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" />
+        <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" />
+        <br>SQLite
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+        <br>Redis
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
+        <br>Firebase
+    </td>
+</tr>
+</table>
+
+### 🔧 Tools & Platforms
+
+<table align="center">
+<tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+        <br>Git
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+        <br>Docker
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+        <br>VS Code
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+        <br>Postman
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+        <br>GitHub
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+        <br>Figma
+    </td>
+</tr>
+</table>
 
 </div>
 
@@ -77,6 +292,8 @@
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=DrissNafii&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
   
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrissNafii&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+
+</div>
 
 ---
 
