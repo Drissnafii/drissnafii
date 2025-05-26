@@ -18,34 +18,6 @@
 
 <div align="center">
   
-  ## 🌟 About Me
-  
-  <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
-  
-  ```typescript
-  const driss = {
-      pronouns: "he" | "him",
-      location: "Morocco 🇲🇦",
-      currentFocus: "Full Stack Development",
-      askMeAbout: ["Web Dev", "Problem Solving", "Tech Innovation"],
-      technologies: {
-          languages: ["JavaScript", "TypeScript", "Python", "PHP"],
-          frontend: ["React", "Vue.js", "HTML5", "CSS3"],
-          backend: ["Node.js", "Express", "Laravel"],
-          databases: ["MongoDB", "MySQL", "PostgreSQL"],
-          tools: ["Git", "Docker", "VS Code"]
-      },
-      currentlyLearning: "AI/ML & Cloud Architecture",
-      funFact: "I debug with console.log and I'm not ashamed! 😄"
-  };
-  ```
-  
-</div>
-
----
-
-<div align="center">
-  
   ## 🛠️ Tech Stack & Tools
   
   <!-- Programming Languages -->
