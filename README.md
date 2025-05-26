@@ -286,26 +286,13 @@ A lightning-fast PowerShell tool to explore, autocomplete, and pretty-print API 
 
 <div align="center">
   
-  ## 📊 GitHub Analytics
+  ## 📊 Top Languages by Repo
   
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=DrissNafii&show_icons=true&theme=dracula&hide_border=true&count_private=true&custom_title=GitHub%20Stats&ring_color=FF69B4&text_color=FF69B4&icon_color=FF1493&title_color=FF69B4" alt="GitHub Stats" style="border-radius: 50%; width: 400px; height: 200px;"/>
-  </div>
-  
-  <br/>
-  
-  <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DrissNafii&theme=dracula&hide_border=true&stroke=FF69B4&ring=FF1493&fire=FF69B4&currStreakLabel=FF69B4" alt="GitHub Streak" style="border-radius: 50%; width: 400px; height: 200px;"/>
-  </div>
-  
-  <br/>
-  
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrissNafii&layout=donut&theme=dracula&hide_border=true&langs_count=8&title_color=FF69B4&text_color=FF69B4" alt="Top Languages" style="width: 350px; height: 350px;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrissNafii&layout=donut&theme=dracula&hide_border=true&langs_count=5&title_color=FF69B4&text_color=FF69B4" alt="Top Languages" style="width: 350px; height: 350px;"/>
   </div>
 
 </div>
-
 
 ---
 
