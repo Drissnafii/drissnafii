@@ -138,29 +138,6 @@
 
 <div align="center">
   
-  ## 💭 Dev Quote
-  
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
-
-</div>
-
----
-
-<div align="center">
-  
-  <!-- Snake Animation -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DrissNafii/DrissNafii/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DrissNafii/DrissNafii/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DrissNafii/DrissNafii/output/github-contribution-grid-snake.svg">
-  </picture>
-
-</div>
-
----
-
-<div align="center">
-  
   <!-- Footer -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
   
