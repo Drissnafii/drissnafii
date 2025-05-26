@@ -41,7 +41,7 @@ An Eventbrite-inspired event management platform built with PHP MVC, PostgreSQL,
 <td width="50%">
 
 ### YallaVamos-Artisana
-<img src="https://skillicons.dev/icons?i=html" width="60" height="60" alt="HTML"/>
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/laravel.svg" width="60" height="60" alt="React"/>
 
 A web guide for the FIFA World Cup 2030 in Morocco. A comprehensive platform showcasing Morocco's culture, venues, and tournament information.
 
