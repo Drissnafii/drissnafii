@@ -148,24 +148,6 @@
 
 <div align="center">
   
-  ## 🎯 Current Goals
-  
-  ```diff
-  + 🔭 I'm currently working on exciting full-stack projects
-  + 🌱 I'm currently learning AI/ML and Cloud Architecture
-  + 👯 I'm looking to collaborate on innovative open-source projects
-  + 🤔 I'm looking for help with advanced system design patterns
-  + 💬 Ask me about web development, problem-solving, or tech trends
-  + 📫 How to reach me: drissnafi3@gmail.com
-  + ⚡ Fun fact: I believe every bug is just an undocumented feature!
-  ```
-
-</div>
-
----
-
-<div align="center">
-  
   <!-- Snake Animation -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DrissNafii/DrissNafii/output/github-contribution-grid-snake-dark.svg">
