@@ -8,109 +8,76 @@
 ---
 
 <div align="center">
-
-## 📊 GitHub Activity & Contributions
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DrissNafii&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)](https://github.com/DrissNafii)
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DrissNafii&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/DrissNafii)
-
-</div>
-
----
-
-<div align="center">
   
 ## 🚀 Featured Projects
 
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 40px; margin: 40px 0;">
-
-<!-- Project Circle 1: Eventler -->
-<div style="position: relative; width: 200px; height: 200px; border-radius: 50%; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center; padding: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.3); transition: transform 0.3s ease;">
-  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/twig.svg" width="40" height="40" alt="PHP" style="margin-bottom: 10px;"/>
-  <h3 style="color: white; font-size: 16px; margin: 5px 0; font-weight: bold;">Eventler</h3>
-  <p style="color: #e0e0e0; font-size: 11px; margin: 2px 0;">Event Management Platform</p>
-  <p style="color: #b0b0b0; font-size: 9px; margin: 2px 0;">PHP • PostgreSQL • AJAX</p>
-  <div style="margin-top: 8px;">
-    <a href="https://github.com/DrissNafii/Eventler" style="color: white; text-decoration: none; font-size: 10px; background: rgba(255,255,255,0.2); padding: 3px 8px; border-radius: 10px; margin: 0 2px;">View</a>
-  </div>
-</div>
-
-<!-- Project Circle 2: YallaVamos -->
-<div style="position: relative; width: 200px; height: 200px; border-radius: 50%; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center; padding: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.3); transition: transform 0.3s ease;">
-  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/laravel.svg" width="40" height="40" alt="Laravel" style="margin-bottom: 10px;"/>
-  <h3 style="color: white; font-size: 16px; margin: 5px 0; font-weight: bold;">YallaVamos</h3>
-  <p style="color: #e0e0e0; font-size: 11px; margin: 2px 0;">FIFA World Cup Guide</p>
-  <p style="color: #b0b0b0; font-size: 9px; margin: 2px 0;">HTML5 • CSS3 • JavaScript</p>
-  <div style="margin-top: 8px;">
-    <a href="https://github.com/DrissNafii/YallaVamos-Artisana" style="color: white; text-decoration: none; font-size: 10px; background: rgba(255,255,255,0.2); padding: 3px 8px; border-radius: 10px; margin: 0 2px;">View</a>
-  </div>
-</div>
-
-<!-- Project Circle 3: Youdemy -->
-<div style="position: relative; width: 200px; height: 200px; border-radius: 50%; background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center; padding: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.3); transition: transform 0.3s ease;">
-  <img src="https://skillicons.dev/icons?i=php" width="40" height="40" alt="PHP" style="margin-bottom: 10px;"/>
-  <h3 style="color: white; font-size: 16px; margin: 5px 0; font-weight: bold;">Youdemy</h3>
-  <p style="color: #e0e0e0; font-size: 11px; margin: 2px 0;">Learning Platform</p>
-  <p style="color: #b0b0b0; font-size: 9px; margin: 2px 0;">PHP • MySQL • Bootstrap</p>
-  <div style="margin-top: 8px;">
-    <a href="https://github.com/DrissNafii/Youdemy-learning" style="color: white; text-decoration: none; font-size: 10px; background: rgba(255,255,255,0.2); padding: 3px 8px; border-radius: 10px; margin: 0 2px;">View</a>
-  </div>
-</div>
-
-<!-- Project Circle 4: Chofoni-CLI -->
-<div style="position: relative; width: 200px; height: 200px; border-radius: 50%; background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center; padding: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.3); transition: transform 0.3s ease;">
-  <img src="https://skillicons.dev/icons?i=powershell" width="40" height="40" alt="PowerShell" style="margin-bottom: 10px;"/>
-  <h3 style="color: #333; font-size: 16px; margin: 5px 0; font-weight: bold;">Chofoni-CLI</h3>
-  <p style="color: #555; font-size: 11px; margin: 2px 0;">API Explorer Tool</p>
-  <p style="color: #777; font-size: 9px; margin: 2px 0;">PowerShell • REST APIs</p>
-  <div style="margin-top: 8px;">
-    <a href="https://github.com/DrissNafii/Chofoni-CLI" style="color: #333; text-decoration: none; font-size: 10px; background: rgba(0,0,0,0.1); padding: 3px 8px; border-radius: 10px; margin: 0 2px;">View</a>
-  </div>
-</div>
-
-</div>
-
-<!-- Alternative HTML structure for better compatibility -->
-<table align="center" style="border: none;">
+<table>
 <tr>
-<td align="center" style="border: none; padding: 20px;">
-<div style="width: 180px; height: 180px; border-radius: 50%; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center; color: white; box-shadow: 0 8px 25px rgba(0,0,0,0.3);">
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/twig.svg" width="35" height="35" alt="PHP"/>
-<h4 style="margin: 8px 0 4px 0; font-size: 14px;">Eventler</h4>
-<p style="margin: 2px 0; font-size: 10px; opacity: 0.9;">Event Management</p>
-<p style="margin: 2px 0; font-size: 8px; opacity: 0.7;">PHP • PostgreSQL</p>
-<a href="https://github.com/DrissNafii/Eventler" style="margin-top: 6px; color: white; text-decoration: none; font-size: 9px; background: rgba(255,255,255,0.2); padding: 2px 6px; border-radius: 8px;">View</a>
-</div>
+<td width="50%">
+
+### Eventler
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/twig.svg" width="60" height="60" alt="React"/>
+
+An Eventbrite-inspired event management platform built with PHP MVC, PostgreSQL, and AJAX. Features include secure user authentication, dynamic event filtering, ticketing system, and admin panel.
+
+**Tech Stack:** PHP, PostgreSQL, AJAX, Twig  
+**Features:** Event Management, Ticketing System, User Authentication
+
+<p align="center">
+  <a href="https://github.com/DrissNafii/Eventler"><img src="https://img.shields.io/badge/CODE-gray?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/DrissNafii/Eventler"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-blue?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
 </td>
-<td align="center" style="border: none; padding: 20px;">
-<div style="width: 180px; height: 180px; border-radius: 50%; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center; color: white; box-shadow: 0 8px 25px rgba(0,0,0,0.3);">
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/laravel.svg" width="35" height="35" alt="Laravel"/>
-<h4 style="margin: 8px 0 4px 0; font-size: 14px;">YallaVamos</h4>
-<p style="margin: 2px 0; font-size: 10px; opacity: 0.9;">FIFA Guide</p>
-<p style="margin: 2px 0; font-size: 8px; opacity: 0.7;">HTML5 • CSS3</p>
-<a href="https://github.com/DrissNafii/YallaVamos-Artisana" style="margin-top: 6px; color: white; text-decoration: none; font-size: 9px; background: rgba(255,255,255,0.2); padding: 2px 6px; border-radius: 8px;">View</a>
-</div>
+<td width="50%">
+
+### YallaVamos-Artisana
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/laravel.svg" width="60" height="60" alt="React"/>
+
+A web guide for the FIFA World Cup 2030 in Morocco. A comprehensive platform showcasing Morocco's culture, venues, and tournament information.
+
+**Tech Stack:** HTML5, CSS3, JavaScript, Blade Templates  
+**Features:** Interactive Guide, Cultural Showcase, Tournament Info
+
+<p align="center">
+  <a href="https://github.com/DrissNafii/YallaVamos-Artisana"><img src="https://img.shields.io/badge/CODE-gray?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/DrissNafii/YallaVamos-Artisana"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-blue?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
 </td>
 </tr>
 <tr>
-<td align="center" style="border: none; padding: 20px;">
-<div style="width: 180px; height: 180px; border-radius: 50%; background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center; color: white; box-shadow: 0 8px 25px rgba(0,0,0,0.3);">
-<img src="https://skillicons.dev/icons?i=php" width="35" height="35" alt="PHP"/>
-<h4 style="margin: 8px 0 4px 0; font-size: 14px;">Youdemy</h4>
-<p style="margin: 2px 0; font-size: 10px; opacity: 0.9;">Learning Platform</p>
-<p style="margin: 2px 0; font-size: 8px; opacity: 0.7;">PHP • MySQL</p>
-<a href="https://github.com/DrissNafii/Youdemy-learning" style="margin-top: 6px; color: white; text-decoration: none; font-size: 9px; background: rgba(255,255,255,0.2); padding: 2px 6px; border-radius: 8px;">View</a>
-</div>
+<td width="50%">
+
+### Youdemy-learning
+<img src="https://skillicons.dev/icons?i=php" width="60" height="60" alt="PHP"/>
+
+A platform to connect students and teachers through online courses. Features comprehensive course management, student enrollment, and interactive learning tools.
+
+**Tech Stack:** PHP, MySQL, JavaScript, Bootstrap  
+**Features:** Course Management, Student Portal, Teacher Dashboard
+
+<p align="center">
+  <a href="https://github.com/DrissNafii/Youdemy-learning"><img src="https://img.shields.io/badge/CODE-gray?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/DrissNafii/Youdemy-learning"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-blue?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
 </td>
-<td align="center" style="border: none; padding: 20px;">
-<div style="width: 180px; height: 180px; border-radius: 50%; background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center; color: #333; box-shadow: 0 8px 25px rgba(0,0,0,0.3);">
-<img src="https://skillicons.dev/icons?i=powershell" width="35" height="35" alt="PowerShell"/>
-<h4 style="margin: 8px 0 4px 0; font-size: 14px;">Chofoni-CLI</h4>
-<p style="margin: 2px 0; font-size: 10px; opacity: 0.8;">API Explorer</p>
-<p style="margin: 2px 0; font-size: 8px; opacity: 0.6;">PowerShell • APIs</p>
-<a href="https://github.com/DrissNafii/Chofoni-CLI" style="margin-top: 6px; color: #333; text-decoration: none; font-size: 9px; background: rgba(0,0,0,0.1); padding: 2px 6px; border-radius: 8px;">View</a>
-</div>
+<td width="50%">
+
+### Chofoni-CLI
+<img src="https://skillicons.dev/icons?i=powershell" width="60" height="60" alt="PowerShell"/>
+
+A lightning-fast PowerShell tool to explore, autocomplete, and pretty-print API endpoints—with zero config. Perfect for developers who hate typing full URLs or manually checking API structures.
+
+**Tech Stack:** PowerShell, REST APIs, JSON  
+**Features:** API Exploration, Auto-completion, Zero Configuration
+
+<p align="center">
+  <a href="https://github.com/DrissNafii/Chofoni-CLI"><img src="https://img.shields.io/badge/CODE-gray?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/DrissNafii/Chofoni-CLI"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-blue?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
 </td>
 </tr>
 </table>
