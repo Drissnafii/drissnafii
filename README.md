@@ -258,3 +258,5 @@ A lightning-fast PowerShell tool to explore, autocomplete, and pretty-print API 
   <!-- Footer -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26,27,28,29&height=100&section=footer" width="100%"/>
 </div>
+
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DrissNafii&theme=react)
