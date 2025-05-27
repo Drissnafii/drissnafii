@@ -264,7 +264,7 @@ A lightning-fast PowerShell tool to explore, autocomplete, and pretty-print API 
   <canvas id="contributionsChart" width="800" height="400"></canvas>
   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
   <script>
-    fetch('https://api.github.com/users/YOUR_USERNAME/events/public')
+    fetch('https://api.github.com/users/drissnafii/events/public')
       .then(response => response.json())
       .then(events => {
         const contributions = events.filter(event => event.type === 'PushEvent');
