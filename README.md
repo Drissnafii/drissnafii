@@ -14,32 +14,6 @@
 </div>
 
 ---
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DrissNafii&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&area_color=58A6FF" alt="Contribution Graph" width="100%"/>
-
-### 🎯 2025 Coding Statistics
-
-<table align="center">
-<tr>
-<td align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DrissNafii&theme=tokyonight" alt="Stats"/>
-</td>
-<td align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DrissNafii&theme=tokyonight&utc_offset=1" alt="Productive Time"/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DrissNafii&theme=tokyonight" alt="Repos per Language"/>
-</td>
-<td align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DrissNafii&theme=tokyonight" alt="Most Commit Language"/>
-</td>
-</tr>
-</table>
-
-</div>
-
----
 
 <div align="center">
   
