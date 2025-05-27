@@ -7,9 +7,7 @@
 <div align="center">
   
   <!-- Typing Animation -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=Welcome+to+my+digital+universe" alt="Typing SVG" />
-  </a>
+  **Welcome!**
 
 </div>
 
