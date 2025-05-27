@@ -14,8 +14,6 @@
 </div>
 
 ---
-
-### 📈 Contribution Activity Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DrissNafii&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&area_color=58A6FF" alt="Contribution Graph" width="100%"/>
 
 ### 🎯 2025 Coding Statistics
