@@ -284,11 +284,6 @@ A lightning-fast PowerShell tool to explore, autocomplete, and pretty-print API 
 ---
 
 <div align="center">
-  
-  ### 📊 Profile Views & Visitors
-  
-  <img src="https://komarev.com/ghpvc/?username=DrissNafii&label=Profile%20views&color=58A6FF&style=flat-square" alt="Profile Views"/>
-  
   <!-- Footer -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26,27,28,29&height=100&section=footer" width="100%"/>
   
