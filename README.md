@@ -1,3 +1,6 @@
+<a href="https://github.com/drissnafii">
+  <img src="https://github.com/drissnafii/contributions" alt="GitHub Contributions" />
+</a>
 <div align="center">
   
   <!-- Header Animation -->
