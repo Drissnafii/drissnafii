@@ -110,14 +110,6 @@ A lightning-fast PowerShell tool to explore, autocomplete, and pretty-print API 
         <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
         <br>PHP
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-        <br>Java
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
-        <br>C#
-    </td>
 </tr>
 <tr>
     <td align="center" width="96">
@@ -131,10 +123,6 @@ A lightning-fast PowerShell tool to explore, autocomplete, and pretty-print API 
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
         <br>C
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
-        <br>C++
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart" />
@@ -158,10 +146,6 @@ A lightning-fast PowerShell tool to explore, autocomplete, and pretty-print API 
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue.js" />
         <br>Vue.js
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="Angular" />
-        <br>Angular
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
@@ -193,18 +177,6 @@ A lightning-fast PowerShell tool to explore, autocomplete, and pretty-print API 
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
         <br>Laravel
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
-        <br>Spring
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" />
-        <br>.NET
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
-        <br>Flask
     </td>
 </tr>
 </table>
