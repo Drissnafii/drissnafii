@@ -5,12 +5,7 @@
 
 </div>
 
----
-
 <div align="center">
-  
-## 🚀 Featured Projects
-
 <table>
 <tr>
 <td width="50%">
