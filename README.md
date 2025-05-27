@@ -258,3 +258,40 @@ A lightning-fast PowerShell tool to explore, autocomplete, and pretty-print API 
   <!-- Footer -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26,27,28,29&height=100&section=footer" width="100%"/>
 </div>
+
+<div align="center">
+  <h2>📊 Contributions</h2>
+  <canvas id="contributionsChart" width="800" height="400"></canvas>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script>
+    fetch('https://api.github.com/users/YOUR_USERNAME/events/public')
+      .then(response => response.json())
+      .then(events => {
+        const contributions = events.filter(event => event.type === 'PushEvent');
+        const dates = contributions.map(event => new Date(event.created_at).toLocaleDateString());
+        const counts = contributions.map(event => event.payload.commits.length);
+
+        new Chart(document.getElementById('contributionsChart'), {
+          type: 'line',
+          data: {
+            labels: dates,
+            datasets: [{
+              label: 'Contributions',
+              data: counts,
+              backgroundColor: 'rgba(76, 175, 80, 0.2)',
+              borderColor: 'rgba(76, 175, 80, 1)',
+              borderWidth: 1,
+              fill: true
+            }]
+          },
+          options: {
+            scales: {
+              y: {
+                beginAtZero: true
+              }
+            }
+          }
+        });
+      });
+  </script>
+</div>
