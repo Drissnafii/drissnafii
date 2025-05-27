@@ -312,3 +312,5 @@ A lightning-fast PowerShell tool to explore, autocomplete, and pretty-print API 
   <p><em>Happy Coding! 🚀</em></p>
 
 </div>
+![GitHub Activity Graph](https://github-contributions-api.jogruber.de/v4/DrissNafii)
+
