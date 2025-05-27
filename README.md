@@ -317,10 +317,6 @@ A lightning-fast PowerShell tool to explore, autocomplete, and pretty-print API 
   </td>
   </tr>
   </table>
-
-  ### 🏅 GitHub Trophies
-  <img src="https://github-profile-trophy.vercel.app/?username=DrissNafii&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" width="100%"/>
-
 </div>
 
 ---
