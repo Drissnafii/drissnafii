@@ -15,27 +15,6 @@
 
 ---
 
-<div align="center">
-
-## 📊 GitHub Analytics Dashboard
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔥 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=DrissNafii&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" width="100%"/>
-
-</td>
-<td width="50%">
-
-### 🏆 GitHub Streak
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DrissNafii&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" width="100%"/>
-
-</td>
-</tr>
-</table>
-
 ### 📈 Contribution Activity Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DrissNafii&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&area_color=58A6FF" alt="Contribution Graph" width="100%"/>
 
@@ -333,18 +312,6 @@ A lightning-fast PowerShell tool to explore, autocomplete, and pretty-print API 
 ---
 
 <div align="center">
-  
-  ## 📊 Language Analytics
-  
-  <table>
-  <tr>
-  <td width="50%">
-  
-  ### 🎯 Top Languages by Repository
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrissNafii&layout=donut&theme=tokyonight&hide_border=true&langs_count=6&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" alt="Top Languages by Repo" width="100%"/>
-  
-  </td>
-  <td width="50%">
   
   ### 🔥 Most Used Languages
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrissNafii&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" alt="Most Used Languages" width="100%"/>
