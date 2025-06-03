@@ -120,10 +120,6 @@ A lightning-fast PowerShell tool to explore, autocomplete, and pretty-print API 
         <br>C
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart" />
-        <br>Dart
-    </td>
-    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
         <br>Bash
     </td>
