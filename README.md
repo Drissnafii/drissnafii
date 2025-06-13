@@ -5,245 +5,76 @@
 
 </div>
 
-<div align="center">
-<table>
-<tr>
-<td width="50%">
+# Driss Nafii
+
+**Full Stack Developer | Problem Solver | Tech Enthusiast**
+
+Passionate full-stack developer with expertise in modern web technologies and a strong foundation in both frontend and backend development. I focus on building scalable, user-centric applications that solve real-world problems.
+
+## Featured Projects
 
 ### Eventler
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/twig.svg" width="60" height="60" alt="React"/>
+Event management platform inspired by Eventbrite, featuring comprehensive event organization capabilities.
 
-An Eventbrite-inspired event management platform built with PHP MVC, PostgreSQL, and AJAX. Features include secure user authentication, dynamic event filtering, ticketing system, and admin panel.
-
-**Tech Stack:** PHP, PostgreSQL, AJAX, Twig  
-**Features:** Event Management, Ticketing System, User Authentication
-
-<p align="center">
-  <a href="https://github.com/DrissNafii/Eventler"><img src="https://img.shields.io/badge/CODE-gray?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://github.com/DrissNafii/Eventler"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-blue?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
-</td>
-<td width="50%">
+- **Technologies**: PHP MVC, PostgreSQL, AJAX, Twig
+- **Key Features**: Secure authentication, dynamic filtering, ticketing system, admin dashboard
+- **Repository**: [View on GitHub](https://github.com/DrissNafii/Eventler)
 
 ### YallaVamos-Artisana
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/laravel.svg" width="60" height="60" alt="React"/>
+FIFA World Cup 2030 Morocco web guide showcasing cultural heritage and tournament information.
 
-A web guide for the FIFA World Cup 2030 in Morocco. A comprehensive platform showcasing Morocco's culture, venues, and tournament information.
-
-**Tech Stack:** HTML5, CSS3, JavaScript, Blade Templates  
-**Features:** Interactive Guide, Cultural Showcase, Tournament Info
-
-<p align="center">
-  <a href="https://github.com/DrissNafii/YallaVamos-Artisana"><img src="https://img.shields.io/badge/CODE-gray?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://github.com/DrissNafii/YallaVamos-Artisana"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-blue?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
+- **Technologies**: HTML5, CSS3, JavaScript, Blade Templates
+- **Key Features**: Interactive cultural guide, venue information, tournament details
+- **Repository**: [View on GitHub](https://github.com/DrissNafii/YallaVamos-Artisana)
 
 ### Youdemy-learning
-<img src="https://skillicons.dev/icons?i=php" width="60" height="60" alt="PHP"/>
+Online learning platform connecting students and instructors through comprehensive course management.
 
-A platform to connect students and teachers through online courses. Features comprehensive course management, student enrollment, and interactive learning tools.
-
-**Tech Stack:** PHP, MySQL, JavaScript, Bootstrap  
-**Features:** Course Management, Student Portal, Teacher Dashboard
-
-<p align="center">
-  <a href="https://github.com/DrissNafii/Youdemy-learning"><img src="https://img.shields.io/badge/CODE-gray?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://github.com/DrissNafii/Youdemy-learning"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-blue?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
-</td>
-<td width="50%">
+- **Technologies**: PHP, MySQL, JavaScript, Bootstrap
+- **Key Features**: Course creation, student enrollment, instructor dashboard, progress tracking
+- **Repository**: [View on GitHub](https://github.com/DrissNafii/Youdemy-learning)
 
 ### Chofoni-CLI
-<img src="https://skillicons.dev/icons?i=powershell" width="60" height="60" alt="PowerShell"/>
+Lightning-fast PowerShell tool for API exploration and endpoint management.
 
-A lightning-fast PowerShell tool to explore, autocomplete, and pretty-print API endpoints—with zero config. Perfect for developers who hate typing full URLs or manually checking API structures.
+- **Technologies**: PowerShell, REST APIs, JSON
+- **Key Features**: API autocomplete, endpoint exploration, zero configuration setup
+- **Repository**: [View on GitHub](https://github.com/DrissNafii/Chofoni-CLI)
 
-**Tech Stack:** PowerShell, REST APIs, JSON  
-**Features:** API Exploration, Auto-completion, Zero Configuration
+## Technical Skills
 
-<p align="center">
-  <a href="https://github.com/DrissNafii/Chofoni-CLI"><img src="https://img.shields.io/badge/CODE-gray?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://github.com/DrissNafii/Chofoni-CLI"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-blue?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+**Languages**: JavaScript, TypeScript, Python, PHP, HTML5, CSS3, C, Bash
 
-</td>
-</tr>
-</table>
+**Frontend**: React, Vue.js, Next.js, Tailwind CSS, Bootstrap
 
-</div>
+**Backend**: Node.js, Express.js, Laravel
 
----
+**Databases**: MongoDB, MySQL, PostgreSQL, SQLite, Redis, Firebase
 
-<div align="center">
-  
-## 🛠️ Tech Stack & Tools
+**Tools & Platforms**: Git, Docker, VS Code, Postman, GitHub, Figma
 
-### 💻 Programming Languages
+## Architecture & Development Practices
 
-<table align="center">
-<tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-        <br>JavaScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
-        <br>TypeScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-        <br>Python
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
-        <br>PHP
-    </td>
-</tr>
-<tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-        <br>HTML5
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-        <br>CSS3
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
-        <br>C
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
-        <br>Bash
-    </td>
-</tr>
-</table>
+- RESTful API design and implementation
+- Database design and optimization
+- Version control with Git
+- Agile development methodologies
+- Test-driven development
+- Responsive web design
+- Cross-browser compatibility
 
-### 🎨 Frontend Technologies
+## Current Focus
 
-<table align="center">
-<tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-        <br>React
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue.js" />
-        <br>Vue.js
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-        <br>Next.js
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-        <br>Tailwind
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
-        <br>Bootstrap
-    </td>
-</tr>
-</table>
+I'm currently expanding my expertise in cloud technologies and microservices architecture while continuing to build innovative web applications that provide exceptional user experiences.
 
-### ⚙️ Backend Technologies
+## Contact
 
-<table align="center">
-<tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-        <br>Node.js
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
-        <br>Express
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
-        <br>Laravel
-    </td>
-</tr>
-</table>
-
-### 🗄️ Databases
-
-<table align="center">
-<tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-        <br>MongoDB
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-        <br>MySQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" />
-        <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" />
-        <br>SQLite
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
-        <br>Redis
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
-        <br>Firebase
-    </td>
-</tr>
-</table>
-
-### 🔧 Tools & Platforms
-
-<table align="center">
-<tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-        <br>Git
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-        <br>Docker
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-        <br>VS Code
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-        <br>Postman
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-        <br>GitHub
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-        <br>Figma
-    </td>
-</tr>
-</table>
-
-</div>
+- **LinkedIn**: [linkedin.com/in/drissnafii](https://linkedin.com/in/drissnafii)
+- **Email**: drissnafi3@gmail.com
 
 ---
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/drissnafii)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:drissnafi3@gmail.com)
-
----
+*Open to collaboration opportunities and interesting projects. Let's build something amazing together.*
 
 <div align="center">
   <!-- Footer -->
