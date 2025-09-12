@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=1,9,24&height=180&section=header&text=%&fontSize=42&fontColor=fff&animation=twinPicture&fontAlignY=32&desc=Dendo&descSize=39&descAlignY=51" width="100%"/>
+<img src="github-header-banner(1).png" alt="Description" width="500"/>
 
 # 👋 Hey there! I'm Driss Nafii
 **Full Stack Developer | Problem Solver | Tech Enthusiast**
