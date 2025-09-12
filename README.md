@@ -1,8 +1,5 @@
 <img src="github-header-banner(1).png" alt="Description">
 
-# 👋 Hey there! I'm Driss Nafii
-**Full Stack Developer | Problem Solver | Tech Enthusiast**
-
 Passionate full-stack developer with expertise in modern web technologies and a strong foundation in both frontend and backend development. I focus on building scalable, user-centric applications that solve real-world problems.
 
 <div>
