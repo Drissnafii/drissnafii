@@ -21,8 +21,6 @@ Passionate full-stack developer with expertise in modern web technologies and a 
 
 </div>
 
-##
-
 ## 🚀 Featured Projects 
 
 ### 🎟️ Eventler
@@ -76,8 +74,6 @@ I'm currently expanding my expertise in cloud technologies and microservices arc
 <div align="center">
 
 </div>
-*Open to collaboration opportunities and interesting projects. Let's build something amazing together!*
-
 
 <div align="center">
   <!-- Footer Animation: Gradient Wave + Clean Style -->
