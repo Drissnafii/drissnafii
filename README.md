@@ -1,4 +1,4 @@
-<img src="github-header-banner(1).png" alt="Description">
+<img src="headers/github-header-image.png" alt="Description">
 
 Passionate full-stack developer with expertise in modern web technologies and a strong foundation in both frontend and backend development. I focus on building scalable, user-centric applications that solve real-world problems.
 
