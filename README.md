@@ -1,9 +1,4 @@
- <!-- Header Animation -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Driss%20Nafii&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer&descSize=16&descAlignY=51" width="100%"/>
-</div>
-
-
-
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=1,9,24&height=180&section=header&text=%&fontSize=42&fontColor=fff&animation=twinPicture&fontAlignY=32&desc=Dendo&descSize=39&descAlignY=51" width="100%"/>
 
 # 👋 Hey there! I'm Driss Nafii
 **Full Stack Developer | Problem Solver | Tech Enthusiast**
