@@ -41,12 +41,6 @@ Online learning platform connecting students and instructors through comprehensi
 - **Key Features**: Course creation, student enrollment, instructor dashboard, progress tracking
 - **Repository**: [View on GitHub](https://github.com/DrissNafii/Youdemy-learning)
 
-### ⚡ Chofoni-CLI
-Lightning-fast PowerShell tool for API exploration and endpoint management.
-- **Technologies**: PowerShell, REST APIs, JSON
-- **Key Features**: API autocomplete, endpoint exploration, zero configuration setup
-- **Repository**: [View on GitHub](https://github.com/DrissNafii/Chofoni-CLI)
-
 ## 🎯 Current Focus
 
 I'm currently expanding my expertise in cloud technologies and microservices architecture while continuing to build innovative web applications that provide exceptional user experiences.
