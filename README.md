@@ -1,6 +1,5 @@
-<div align="center">
-  <!-- Header Animation: Gradient Wave + Clean Style + Italic Text -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,3,6&height=180&section=header&text=Dendo%fd*_*%&fontSize=44&fontColor=0a0a0a&animation=fade&fontAlignY=35&desc=______%20_______%20 Full Stack Developer&descSize=18&descAlignY=55&descColor=1a1a1a&fontStyle=italic" width="100%"/>
+ <!-- Header Animation -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Driss%20Nafii&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer&descSize=16&descAlignY=51" width="100%"/>
 </div>
 
 
