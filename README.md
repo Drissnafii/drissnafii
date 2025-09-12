@@ -1,4 +1,4 @@
-<img src="github-header-banner(1).png" alt="Description" width="500"/>
+<img src="github-header-banner(1).png" alt="Description">
 
 # 👋 Hey there! I'm Driss Nafii
 **Full Stack Developer | Problem Solver | Tech Enthusiast**
