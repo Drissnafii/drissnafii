@@ -52,13 +52,13 @@ Online learning platform connecting students and instructors through comprehensi
 ## 🎯 Current Focus
 
 I'm currently expanding my expertise in cloud technologies and microservices architecture while continuing to build innovative web applications that provide exceptional user experiences.
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drissnafii&layout=compact&theme=github_dark&hide_border=false&border_radius=15&hide_title=true" alt="Top Languages" height="165"/>
-</div>
 
 <div align="center">
   <!-- Footer Animation: Gradient Wave + Clean Style -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,3,6&height=100&section=footer&animation=fade" width="100%"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drissnafii&layout=compact&theme=github_dark&hide_border=false&border_radius=15&hide_title=true" alt="Top Languages" height="165"/>
 </div>
 
 <div align="center">
