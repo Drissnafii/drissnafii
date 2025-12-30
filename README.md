@@ -16,7 +16,7 @@ Passionate full-stack developer with expertise in modern web technologies and a 
 <img src="https://skillicons.dev/icons?i=js,ts,python,php,c" />
 
 ### Frontend Development
-<img src="https://skillicons.dev/icons?i=next,react,vue,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=next,react,vue,tailwind" />
 
 ### Backend Development
 <img src="https://skillicons.dev/icons?i=bun,express,laravel,nest" />
@@ -25,7 +25,7 @@ Passionate full-stack developer with expertise in modern web technologies and a 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,redis,firebase,prisma" />
 
 ### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,docker,vscode,github,figma" />
+<img src="https://skillicons.dev/icons?i=git,docker,github,figma" />
 
 </div>
 
