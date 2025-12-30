@@ -19,7 +19,7 @@ Passionate full-stack developer with expertise in modern web technologies and a 
 <img src="https://skillicons.dev/icons?i=next,react,vue,tailwind,bootstrap" />
 
 ### Backend Development
-<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,nest" />
+<img src="https://skillicons.dev/icons?i=bun,express,laravel,nest" />
 
 ### Databases
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,redis,firebase,prisma" />
