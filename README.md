@@ -25,7 +25,7 @@ Passionate full-stack developer with expertise in modern web technologies and a 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,redis,firebase,prisma" />
 
 ### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,docker,github,figma" />
+<img src="https://skillicons.dev/icons?i=aws,linux,fedora,ubuntu,docker,git,docker,github,figma" />
 
 </div>
 
