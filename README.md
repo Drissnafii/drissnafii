@@ -33,9 +33,8 @@ Passionate full-stack developer with expertise in modern web technologies and a 
 
 I'm currently expanding my expertise in cloud technologies and microservices architecture while continuing to build innovative web applications that provide exceptional user experiences.
 
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drissnafii&layout=compact&theme=github_dark&hide_border=false&border_radius=15&hide_title=true" alt="Top Languages" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=drissnafii&theme=github_dark" alt="3D Language Stats"/>
 </div>
 
 <div align="center">
